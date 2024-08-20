@@ -1,3 +1,5 @@
+export const rapitApiKey = 'feb10218c8mshfac9f0fda904df2p155803jsnf09a93ac1270'
+
 export const sliderImages = [
     require('../assets/images/slide1.png'),
     require('../assets/images/slide2.png'),
